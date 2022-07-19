@@ -1,0 +1,31 @@
+{
+  "name": "wardbot",
+  "version": "1.0.0",
+  "description": "🛡 Simple bot de discord para borrar mensajes con enlaces dudosos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkuroneko/WardBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "url",
+    "monitoring"
+  ],
+  "author": "KuroNeko",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/imkuroneko/WardBot/issues"
+  },
+  "homepage": "https://github.com/imkuroneko/WardBot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^14.0.1",
+    "extract-urls": "^1.3.2",
+    "url-metadata": "^2.5.0"
+  }
+}
