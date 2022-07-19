@@ -1,7 +1,7 @@
 ### 🛡 WardBot
 
 ```
-Simple bot de discord para borrar mensajes con enlaces dudosos
+Simple bot de discord para borrar mensajes con enlaces de sitios pornográficos o de phishing.
 ```
 
 
