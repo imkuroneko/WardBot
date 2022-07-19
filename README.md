@@ -53,9 +53,9 @@ pm2 start
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/imkuroneko/TheiBot?style=flat"/> &nbsp;
-  <img src="https://img.shields.io/github/languages/top/imkuroneko/TheiBot?style=flat"/> &nbsp;
-  <img src="https://img.shields.io/github/last-commit/imkuroneko/TheiBot?color=pink&style=flat"/>
+  <img src="https://img.shields.io/github/repo-size/imkuroneko/WardBot?style=flat"/> &nbsp;
+  <img src="https://img.shields.io/github/languages/top/imkuroneko/WardBot?style=flat"/> &nbsp;
+  <img src="https://img.shields.io/github/last-commit/imkuroneko/WardBot?color=pink&style=flat"/>
 </p>
 
 <p align="center">
